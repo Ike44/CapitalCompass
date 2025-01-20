@@ -1,2 +1,2 @@
 # CapitalCompass
-Predictive Model for Stockmarket Investments
+Implementation of a Predictive Model for Stockmarket Investments
